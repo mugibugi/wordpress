@@ -1,0 +1,978 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 05:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:17
+msgid "404!"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Required fields are marked"
+msgstr ""
+
+#: comments.php:81
+msgid "Name*"
+msgstr ""
+
+#: comments.php:85
+msgid "Email*"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:100
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:101
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:102
+msgid "Submit"
+msgstr ""
+
+#: comments.php:106
+msgid "Comment"
+msgstr ""
+
+#: comments.php:111
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:117
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:124
+msgid "Your email address will not be published. "
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:333 inc/customizer/social.php:50
+msgid "Facebook"
+msgstr ""
+
+#: inc/custom-functions.php:337 inc/customizer/social.php:69
+msgid "Twitter"
+msgstr ""
+
+#: inc/custom-functions.php:341 inc/customizer/social.php:87
+msgid "Google Plus"
+msgstr ""
+
+#: inc/custom-functions.php:345 inc/customizer/social.php:105
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/custom-functions.php:349 inc/customizer/social.php:122
+msgid "Pinterest"
+msgstr ""
+
+#: inc/custom-functions.php:353 inc/customizer/social.php:140
+msgid "Instagram"
+msgstr ""
+
+#: inc/custom-functions.php:357
+msgid "Youtube"
+msgstr ""
+
+#: inc/custom-functions.php:361 inc/customizer/social.php:177
+msgid "OK"
+msgstr ""
+
+#: inc/custom-functions.php:364 inc/customizer/social.php:194
+msgid "VK"
+msgstr ""
+
+#: inc/custom-functions.php:367 inc/customizer/social.php:212
+msgid "Xing"
+msgstr ""
+
+#: inc/extras.php:22
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/extras.php:27
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:36 inc/extras.php:62
+msgid ", "
+msgstr ""
+
+#: inc/extras.php:38
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/extras.php:45
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/extras.php:64
+#, php-format
+msgid " %1$s "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/extras.php:71
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/extras.php:118 inc/customizer/breadcrumb.php:80
+msgid ">"
+msgstr ""
+
+#: inc/extras.php:119 inc/customizer/breadcrumb.php:62
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:170
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/extras.php:170
+msgid "\""
+msgstr ""
+
+#: inc/extras.php:173 inc/extras.php:173 inc/extras.php:174 inc/extras.php:178
+#: inc/extras.php:178 inc/extras.php:182
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:174
+msgid "m"
+msgstr ""
+
+#: inc/extras.php:174 inc/extras.php:179
+msgid "F"
+msgstr ""
+
+#: inc/extras.php:175
+msgid "d"
+msgstr ""
+
+#: inc/extras.php:236
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:278
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/extras.php:316
+msgid " Prev "
+msgstr ""
+
+#: inc/extras.php:317
+msgid " Next "
+msgstr ""
+
+#: inc/extras.php:318
+msgid "Page"
+msgstr ""
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr ""
+
+#: inc/info.php:29
+msgid ""
+"<strong>Instruction for how to setup Home Page in Preschool and Kindergarten "
+"Theme</strong><br/>1. Go to Pages and create a new page (Title can be "
+"anything. For example, Home )<br/>\n"
+"\t\t\t\t2. In right column and under Page Attributes, choose \"Home Page\" "
+"template<br/>\n"
+"\t\t\t\t3. Click on Publish<br/>\n"
+"\t\t\t\t4. Go to Appearance-> Customize -> Default Settings -> Static Front "
+"Page<br/>\n"
+"\t\t\t\t5. Select A static page<br/>\n"
+"\t\t\t\t6. Under Front Page, select the page that you created in the step "
+"1<br/>\n"
+"\t\t\t\t7. Save changes"
+msgstr ""
+
+#: inc/info.php:46
+msgid "Need help?"
+msgstr ""
+
+#: inc/info.php:47
+msgid "View demo"
+msgstr ""
+
+#: inc/info.php:47 inc/info.php:48 inc/info.php:49 inc/info.php:50
+#: inc/info.php:51 inc/info.php:52
+msgid "here"
+msgstr ""
+
+#: inc/info.php:48
+msgid "View documentation"
+msgstr ""
+
+#: inc/info.php:49
+msgid "Theme info"
+msgstr ""
+
+#: inc/info.php:50
+msgid "Support ticket"
+msgstr ""
+
+#: inc/info.php:51
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/info.php:52
+msgid "More WordPress Themes"
+msgstr ""
+
+#: inc/info.php:56
+msgid "About Preschool and Kindergarten"
+msgstr ""
+
+#: inc/info.php:177
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:179
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:206
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-functions.php:231
+msgid "404 - Page not found"
+msgstr ""
+
+#: inc/template-functions.php:325
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/template-functions.php:430
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/template-functions.php:434
+msgid "Preschool and Kindergarten by Rara Theme."
+msgstr ""
+
+#: inc/template-functions.php:435
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:435
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/woocommerce-functions.php:37
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:39
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: sections/about.php:34 template-parts/content.php:44
+msgid "Read More"
+msgstr ""
+
+#: sections/banners.php:10 inc/customizer/home/banners.php:209
+msgid "Continue Reading"
+msgstr ""
+
+#: sections/news.php:43 sections/program.php:54 sections/promotional.php:10
+msgid "View Details"
+msgstr ""
+
+#: sections/testimonials.php:34
+msgid "- "
+msgstr ""
+
+#: sections/testimonials.php:38
+msgid " , "
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:33
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:28 template-parts/content.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:15
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:34
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:52
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:70
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/breadcrumb.php:88
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer/custom.php:14
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: inc/customizer/custom.php:32
+msgid "Custom Css"
+msgstr ""
+
+#: inc/customizer/custom.php:34
+msgid "Put your custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:18
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer/customizer.php:26
+msgid "Choose Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by wordpress customizer"
+msgstr ""
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/customizer/header.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header.php:32
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/header.php:50
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer/social.php:13
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer/social.php:14
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: inc/customizer/social.php:32
+msgid "Enable Social Links in Header"
+msgstr ""
+
+#: inc/customizer/social.php:158
+msgid "YouTube"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:40
+#: inc/widgets/widget-popular-post.php:103
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:76
+#: inc/widgets/widget-popular-post.php:77 inc/widgets/widget-recent-post.php:75
+#: inc/widgets/widget-recent-post.php:76
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-social-links.php:67
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:122
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:127
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:40 inc/widgets/widget-recent-post.php:102
+msgid "Recent Posts"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:41
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:91
+msgid "Social Media"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:72
+msgid ""
+"You can change the social links from the customizer in Social Settings "
+"options."
+msgstr ""
+
+#: inc/widgets/widgets.php:8
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:10 inc/widgets/widgets.php:20
+#: inc/widgets/widgets.php:30 inc/widgets/widgets.php:40
+#: inc/widgets/widgets.php:50
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:18
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:38
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:48
+msgid "Footer Four"
+msgstr ""
+
+#: inc/customizer/home/about.php:15
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:33
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/home/about.php:51
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/home/banners.php:15
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/home/banners.php:33
+msgid "Enable Slider Section"
+msgstr ""
+
+#: inc/customizer/home/banners.php:51 inc/customizer/home/testimonials.php:105
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: inc/customizer/home/banners.php:69
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: inc/customizer/home/banners.php:87
+msgid "Enable Slider Control"
+msgstr ""
+
+#: inc/customizer/home/banners.php:105
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: inc/customizer/home/banners.php:123
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: inc/customizer/home/banners.php:127
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/home/banners.php:128
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/home/banners.php:129
+msgid "Bounce Out"
+msgstr ""
+
+#: inc/customizer/home/banners.php:130
+msgid "Bounce Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:131
+msgid "Bounce Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:132
+msgid "Bounce Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:133
+msgid "Bounce Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:134
+msgid "Fade Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:135
+msgid "Fade Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:136
+msgid "Fade Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:137
+msgid "Fade Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:138
+msgid "Flip OutX"
+msgstr ""
+
+#: inc/customizer/home/banners.php:139
+msgid "Flip OutY"
+msgstr ""
+
+#: inc/customizer/home/banners.php:140
+msgid "Hinge"
+msgstr ""
+
+#: inc/customizer/home/banners.php:141
+msgid "Pulse"
+msgstr ""
+
+#: inc/customizer/home/banners.php:142
+msgid "Roll Out"
+msgstr ""
+
+#: inc/customizer/home/banners.php:143
+msgid "Roll Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:144
+msgid "Roll Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:145
+msgid "Roll Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:146
+msgid "Roll Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:147
+msgid "Rotate Out"
+msgstr ""
+
+#: inc/customizer/home/banners.php:148
+msgid "Rotate Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:149
+msgid "Rotate Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:150
+msgid "Rotate Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:151
+msgid "Rotate Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:152
+msgid "Rubber Band"
+msgstr ""
+
+#: inc/customizer/home/banners.php:153
+msgid "Shake"
+msgstr ""
+
+#: inc/customizer/home/banners.php:154
+msgid "Slide Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:155
+msgid "Slide Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:156
+msgid "Slide Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:157
+msgid "Slide Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:158
+msgid "Swing"
+msgstr ""
+
+#: inc/customizer/home/banners.php:159
+msgid "Tada"
+msgstr ""
+
+#: inc/customizer/home/banners.php:160
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/customizer/home/banners.php:161
+msgid "Zoom Out Left"
+msgstr ""
+
+#: inc/customizer/home/banners.php:162
+msgid "Zoom Out Right"
+msgstr ""
+
+#: inc/customizer/home/banners.php:163
+msgid "Zoom Out Up"
+msgstr ""
+
+#: inc/customizer/home/banners.php:164
+msgid "Zoom Out Down"
+msgstr ""
+
+#: inc/customizer/home/banners.php:181
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer/home/banners.php:199
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/customizer/home/banners.php:217
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/customizer/home/banners.php:235
+msgid "Choose Slider Category"
+msgstr ""
+
+#: inc/customizer/home/lessons.php:15
+msgid "Lessons Section"
+msgstr ""
+
+#: inc/customizer/home/lessons.php:33
+msgid "Enable Lessons Section"
+msgstr ""
+
+#: inc/customizer/home/lessons.php:50 inc/customizer/home/news.php:49
+#: inc/customizer/home/program.php:50 inc/customizer/home/promotional.php:49
+#: inc/customizer/home/services.php:50 inc/customizer/home/staff.php:50
+#: inc/customizer/home/testimonials.php:51
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/home/lessons.php:66 inc/customizer/home/news.php:65
+#: inc/customizer/home/program.php:66 inc/customizer/home/promotional.php:65
+#: inc/customizer/home/services.php:66 inc/customizer/home/staff.php:66
+#: inc/customizer/home/testimonials.php:67
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/home/lessons.php:83 inc/customizer/home/lessons.php:102
+#: inc/customizer/home/lessons.php:121
+msgid "Select Post"
+msgstr ""
+
+#: inc/customizer/home/news.php:14
+msgid "News Section"
+msgstr ""
+
+#: inc/customizer/home/news.php:32
+msgid "Enable News Section"
+msgstr ""
+
+#: inc/customizer/home/program.php:15
+msgid "Program Section"
+msgstr ""
+
+#: inc/customizer/home/program.php:33
+msgid "Enable Program Section"
+msgstr ""
+
+#: inc/customizer/home/program.php:84
+msgid "Select Program Post One"
+msgstr ""
+
+#: inc/customizer/home/program.php:103
+msgid "Select Program Post Two"
+msgstr ""
+
+#: inc/customizer/home/program.php:122
+msgid "Select Program Post Three"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:14
+msgid "Promotional Block Section"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:32
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:83
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/home/promotional.php:100
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/home/services.php:15
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/home/services.php:33
+msgid "Enable Services Section"
+msgstr ""
+
+#: inc/customizer/home/services.php:85
+msgid "Select Service Post"
+msgstr ""
+
+#: inc/customizer/home/staff.php:15
+msgid "Team Section"
+msgstr ""
+
+#: inc/customizer/home/staff.php:33
+msgid "Enable Team Section"
+msgstr ""
+
+#: inc/customizer/home/staff.php:84
+msgid "Select Post One"
+msgstr ""
+
+#: inc/customizer/home/staff.php:103
+msgid "Select Post Two"
+msgstr ""
+
+#: inc/customizer/home/staff.php:122
+msgid "Select Post Three"
+msgstr ""
+
+#: inc/customizer/home/testimonials.php:16
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/home/testimonials.php:34
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer/home/testimonials.php:86
+msgid "Choose Testimonials Category"
+msgstr ""
+
+#. Name of the theme
+msgid "Preschool and Kindergarten"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Preschool and Kindergarten is a beautiful educational WordPress theme "
+"suitable for Kindergarten, Schools, Elementary, Primary Schools, "
+"Universities, Academy, Secondary School, LMS, Training Center and "
+"Educational institutions. Preschool and Kindergarten is also suitable for "
+"education and children activities. It is mobile responsive and translation "
+"ready. The theme is very flexible and versatile. In other words, it is "
+"multipurpose theme. It can be used to build various types of websites for "
+"business, corporate, charity, food, recipe, travel, photography, feminine, "
+"lifestyle, events, etc. The theme is highly customizable with various "
+"features and personalization options. Preschool and Kindergarten comes with "
+"several features to make a user-friendly, interactive and visually stunning "
+"website. Such features include custom menu, attractive slider, about section,"
+" courses section, testimonial section, featured programs, Banner with Call "
+"to Action Button (CTA), and social media. The theme is SEO friendly with "
+"optimized codes, which make it easy for your site to rank on Google and "
+"other search engines. The theme is properly tested and optimized for speed "
+"and faster page load time and has a secure and clean code. The theme is also "
+"translation ready. Designed with visitor engagement in mind, Preschool and "
+"Kindergarten theme helps you to easily and intuitively create professional "
+"and appealing websites. If your preschool, kindergarten, school, college or "
+"university needs an online home that is dynamic and multi-functional, "
+"Preschool and Kindergarten them is a good place to start. Check the demo at "
+"https://raratheme.com/preview/preschool-and-kindergarten/, documentation at "
+"https://raratheme.com/wordpress-themes/preschool-and-kindergarten/, and get "
+"support at http://raratheme.com/support-ticket/."
+msgstr ""
+
+#. URI of the theme
+msgid "http://raratheme.com/wordpress-themes/preschool-and-kindergarten/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""
