@@ -40,7 +40,7 @@
 								</div>
 								
 								<footer class="entry-footer">
-									<a href="<?php the_permalink(); ?>" class="readmore"><?php esc_html_e('View Details','preschool-and-kindergarten');?></a>
+									<a href="<?php the_permalink(); ?>" class="readmore"><?php esc_html_e('Lire la suite','preschool-and-kindergarten');?></a>
 								</footer>
 							
 							</div>
